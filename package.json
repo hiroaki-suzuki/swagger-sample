@@ -1,0 +1,9 @@
+{
+  "name": "swagger-sample",
+  "scripts": {
+    "dev": "node_modules/.bin/browser-sync start --proxy localhost:8081 --files ./src/*"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.10"
+  }
+}

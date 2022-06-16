@@ -3,7 +3,7 @@ info:
   description: "Swaggerのサンプル"
   version: "1.0.0"
   title: "Swagger Sample"
-host: "localhost:8081"
+host: "localhost:3000"
 basePath: "/v2"
 schemes:
 - "https"
